@@ -1,0 +1,30 @@
+Que: What is RPC?
+Ans: Remote Procedure Call (RPC) is a protocol that one program can use to request a 	  sometime service from a program located in another computer on a network
+	 without having to understand the network's details. A procedure call is also sometimes known as a function call or a subroutine call.
+	 
+	 JSON RPC API. ... JSON-RPC is a stateless, light-weight remote procedure call 
+	 (RPC) protocol. Primarily this specification defines several data structures and the rules around their processing.
+
+Que: What is Web Services?
+Ans: A Web Service is can be defined by following ways:
+
+	 -> is a client server application or application component for communication.
+	 -> method of communication between two devices over network.
+	 -> is a software system for interoperable machine to machine communication.
+	 -> is a collection of standards or protocols for exchanging information between 	two devices or application.
+
+Que: What are types of Web Services?
+Ans: There are mainly two types of web services.
+
+	 -> SOAP web services.
+	 -> RESTful web services.
+
+Que: What is REST?
+Ans: REST stands for REpresentational State Transfer.
+	 REST is an architectural style not a protocol.
+	 
+	 Advantages of RESTful Web Services
+	 -> Fast: RESTful Web Services are fast because there is no strict specification like SOAP. It consumes less bandwidth and resource.
+	 -> Language and Platform independent: RESTful web services can be written in any programming language and executed in any platform.
+	 -> Can use SOAP: RESTful web services can use SOAP web services as the implementation.
+	 -> Permits different data format: RESTful web service permits different data format such as Plain Text, HTML, XML and JSON.
